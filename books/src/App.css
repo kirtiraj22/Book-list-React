@@ -1,0 +1,16 @@
+
+h1{
+  margin: 0;
+}
+
+.App{
+  text-align: center;
+}
+
+.main{
+  background-color: #ebf5fc;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 14px;
+}

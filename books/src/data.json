@@ -1,0 +1,62 @@
+[
+    {
+        "Title" : "Rich Dad Poor Dad",
+        "Author": "Robert T. Kiyosaki",
+        "image" : "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514686549l/32926179._SY475_.jpg"    
+    },
+    {
+        "Title" : "Atomic Habits",
+        "Author": "James Clear",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS3irM-nJDWRd3G-FefQzUNTOdTq8C9EBynqcjBWk-&s"    
+    },
+    {
+        "Title" : "Do Epic Shit",
+        "Author": "Ankur Warikoo",
+        "image" : "https://m.media-amazon.com/images/I/61kRkfsIMUL.jpg"    
+    },
+    {
+        "Title" : "Think Like A Monk",
+        "Author": "Jay Shetty",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInD_tWNjBg4WMoYY0w8x9X7ghZkbSWxUdfl97k8kE1v7mvjNWW_BSUhHxJageIGzflUw&usqp=CAU"    
+    },
+    {
+        "Title" : "The Psychology of Money",
+        "Author": "Morgan Housel",
+        "image" : "https://5.imimg.com/data5/SELLER/Default/2022/2/GT/II/PM/147304712/whatsapp-image-2022-02-20-at-5-05-39-pm-500x500.jpeg"    
+    },
+    {
+        "Title" : "The Subtle Art of Not Giving A F*ck",
+        "Author": "Mark Manson",
+        "image" : "http://cdn.shopify.com/s/files/1/1192/7528/products/the-subtle-art-of-not-giving-a-f-ck-4118942154811.jpg?v=1641631740"    
+    },
+    {
+        "Title" : "Ikigai",
+        "Author": "Hector Garcia",
+        "image" : "https://www.shortform.com/blog/wp-content/uploads/2021/05/ikigai-cover.png"    
+    },
+    {
+        "Title" : "Think and Grow Rich",
+        "Author": "Napoleon Hill",
+        "image" : "https://quickbooost.com/wp-content/uploads/2020/07/Think-Grow-Rich.jpg"    
+    },
+    {
+        "Title" : "Zero To One",
+        "Author": "Peter Thiel",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfi-p-gt1MeFVPUXOY0BB9BMDXmJJlU1Sgp6at0n4&s"    
+    },
+    {
+        "Title" : "The 10X Rule",
+        "Author": "Grant Cardone",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV694m2yMpQhga2bIGzOfUEZzeJjyuh6SOl6Nz4lXC&s"    
+    },
+    {
+        "Title" : "The $100 Startup",
+        "Author": "Chris Guillebeau",
+        "image" : "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342787100l/14846293.jpg"    
+    },
+    {
+        "Title" : "The Lean Startup",
+        "Author": "Eric Ries",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfsPkhFl8dQ_OXifgs2l2DmqhQEbUfWB5db3rmdE3&s"    
+    }
+]
