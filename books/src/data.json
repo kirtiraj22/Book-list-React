@@ -58,5 +58,21 @@
         "Title" : "The Lean Startup",
         "Author": "Eric Ries",
         "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfsPkhFl8dQ_OXifgs2l2DmqhQEbUfWB5db3rmdE3&s"    
+    },
+     {
+        "Title" : "The Right Stuff",
+        "Author": "Andy Weir",
+        "image" : "https://upload.wikimedia.org/wikipedia/en/d/d4/Right_stuff_ver1.jpg"
+    },
+    {
+        "Title" : "Endurance: Shackleton's Incredible Voyage",
+        "Author": "Tom Wolfe",
+        "image" : "https://m.media-amazon.com/images/I/51nbCCBDUEL._SX331_BO1,204,203,200_.jpg"
+    },
+    {
+        "Title" : "The Universe in a Nutshell",
+        "Author": "Stephen Hawking",
+        "image" : "https://upload.wikimedia.org/wikipedia/en/6/6c/Cover_Universe_in_a_nutshell.jpg"
     }
+    
 ]
